@@ -1,4 +1,4 @@
-package com.hyc.vg.land.system.user.controller;
+package com.hyc.vg.land.modules.system.user.controller;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.hyc.vg.land.system.common.util.HttpReturnUtils;
-import com.hyc.vg.land.system.user.entity.User;
-import com.hyc.vg.land.system.user.service.UserService;
+import com.hyc.vg.land.common.util.HttpReturnUtils;
+import com.hyc.vg.land.modules.system.user.entity.User;
+import com.hyc.vg.land.modules.system.user.service.UserService;
 
 /**
  * 用户Controller

@@ -1,8 +1,8 @@
-package com.hyc.vg.land.system.user.entity;
+package com.hyc.vg.land.modules.system.user.entity;
 
 import java.util.Date;
 
-import com.hyc.vg.land.system.common.entity.DataEntity;
+import com.hyc.vg.land.common.entity.DataEntity;
 
 /**
  * 用户

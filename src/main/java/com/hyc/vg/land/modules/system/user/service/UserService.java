@@ -1,10 +1,10 @@
-package com.hyc.vg.land.system.user.service;
+package com.hyc.vg.land.modules.system.user.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.hyc.vg.land.system.user.dao.UserDao;
-import com.hyc.vg.land.system.user.entity.User;
+import com.hyc.vg.land.modules.system.user.dao.UserDao;
+import com.hyc.vg.land.modules.system.user.entity.User;
 
 /**
  * 用户Service

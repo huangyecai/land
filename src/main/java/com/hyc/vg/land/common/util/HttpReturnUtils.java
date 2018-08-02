@@ -1,4 +1,4 @@
-package com.hyc.vg.land.system.common.util;
+package com.hyc.vg.land.common.util;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.hyc.vg.land.system.common.entity;
+package com.hyc.vg.land.common.entity;
 
 
 import java.io.Serializable;
@@ -8,7 +8,7 @@ import java.util.UUID;
 import org.apache.commons.lang3.StringUtils;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.hyc.vg.land.system.user.entity.User;
+import com.hyc.vg.land.modules.system.user.entity.User;
 
 
 /**

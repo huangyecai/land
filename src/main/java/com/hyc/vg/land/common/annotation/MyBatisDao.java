@@ -1,4 +1,4 @@
-package com.hyc.vg.land.system.common.annotation;
+package com.hyc.vg.land.common.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

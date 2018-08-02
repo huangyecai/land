@@ -1,7 +1,7 @@
-package com.hyc.vg.land.system.user.dao;
+package com.hyc.vg.land.modules.system.user.dao;
 
-import com.hyc.vg.land.system.common.annotation.MyBatisDao;
-import com.hyc.vg.land.system.user.entity.User;
+import com.hyc.vg.land.common.annotation.MyBatisDao;
+import com.hyc.vg.land.modules.system.user.entity.User;
 
 /**
  * 用户Dao
