@@ -52,7 +52,7 @@
     <bean id="mapperScannerConfigurer" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
         <property name="basePackage" value="com.hyc.vg.land"/>
-        <property name="annotationClass" value="com.hyc.vg.land.system.common.annotation.MyBatisDao"/>
+        <property name="annotationClass" value="com.hyc.vg.land.common.annotation.MyBatisDao"/>
     </bean>
     <!-- (事务管理)transaction manager, use JtaTransactionManager for global tx-->  
     <bean id="transactionManager"  
